@@ -1,2 +1,2 @@
 # JavaScriptPersianPriceSpacer
-this class convert 20000 to 20,000
+This class convert 20000 to 20,000
